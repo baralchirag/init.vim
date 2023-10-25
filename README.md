@@ -3,13 +3,7 @@
 
 This is my personal Vim configuration, tailored to my preferences and workflow. It includes various settings and plugins to enhance my text editing and development experience.
 
-## Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Key Mappings](#key-mappings)
-- [Plugins](#plugins)
-- [Color Scheme](#color-scheme)
-- [C/C++ Support](#cc-support)
+
 
 ## Features
 
