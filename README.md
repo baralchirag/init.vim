@@ -29,4 +29,4 @@ To use this Vim configuration:
 
 1. Clone this repository to your local machine
 2. ```bash
-   git clone <repository-url>
+   git clone <https://github.com/baralchirag/init.vim>
